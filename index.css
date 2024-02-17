@@ -687,10 +687,10 @@ body {
 }
 .rectangle-div {
   align-self: stretch;
-  width: 648px;
+  /* width: 648px; */
   position: relative;
   border-radius: 50px;
-  background-color: #fff;
+  background-color: #cb5f5f;
   display: none;
   max-width: 100%;
 }
@@ -817,7 +817,7 @@ body {
   flex-shrink: 0;
   z-index: 1;
 }
-.wwwwebsitecom {
+.website {
   position: relative;
   line-height: 40px;
   font-weight: 500;
